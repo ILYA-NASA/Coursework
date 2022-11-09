@@ -43,6 +43,8 @@
 
 # Приятного пользования!
 
+![image](https://user-images.githubusercontent.com/99810114/200754412-b73f5af0-0198-427c-bc3a-d7ea12fa073c.png)
+
 ![image](https://user-images.githubusercontent.com/99810114/200753536-89bcae54-e1c3-47ce-bb73-394fd6afca1a.png)
 
 ![image](https://user-images.githubusercontent.com/99810114/200753631-136235d3-865e-4863-b59b-6c38a81e96c7.png)
